@@ -1,4 +1,4 @@
-# FireCat
+# Exakova FireCat
 An Instagram account manager web bot to get organic followers
 
 <p align="left">
